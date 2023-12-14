@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="link_to_logo.png" alt="Project Logo">
+  <img src="https://cdn.discordapp.com/attachments/938054512562827305/1136601649876570182/logo.png" width="250" alt="ATM-Logo.png">
 </p>
 
 <h1 align="center">Project Name</h1>
