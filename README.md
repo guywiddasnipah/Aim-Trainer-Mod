@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/938054512562827305/1136601649876570182/logo.png" width="250" alt="ATM-Logo.png">
+  <img src="https://cdn.discordapp.com/attachments/1171021700696125460/1184986486714667008/logo.png?ex=658df7aa&is=657b82aa&hm=91b66a8d2fc7ef2ed6bb85e0389b97cd40ba9eb011c1729c2dcb8b862831ceaa&" width="175" alt="ATM-Logo.png">
 </p>
 
-<h1 align="center">Project Name</h1>
+<h1 align="center">Aim Trainer Mod</h1>
 
 <p align="center">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/guywiddasnipah/Aim-Trainer-Mod.svg?style=for-the-badge">
