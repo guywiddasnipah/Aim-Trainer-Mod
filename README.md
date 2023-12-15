@@ -26,7 +26,7 @@
 
 ## Description  <a name="description"></a>
 
-A brief description of your awesome project.
+The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to the tons of other color-palette mods out there, this mod concept provides the player a whole new gameplay experience. A powerful interface, custom assets, clean textures, sounds and scripting usage, all while preserving performance is what makes this mod stand out among its counterparts. The mod is suitable for competitive and casual playstyles alike and provides players a significant advantage over the others.
 
 ## Features  <a name="features"></a>
 
