@@ -30,7 +30,7 @@ A brief description of your awesome project.
 
 ## Features  <a name="features"></a>
 
-- A modern, Aim Trainer-esque UI to get you into the 
+- A modern, minimal and stats-packed Aim Trainer-esque UI to provide you all the info you'll need on-the-go
 - Simplified game asset models for a significant performance/FPS boost
 - Clean textures for great visibility and target-focused gameplay
 - Pleasant sound effects to add to the overall ambience of the mod's theme
@@ -38,17 +38,13 @@ A brief description of your awesome project.
 
 ## Installation  <a name="installation"></a>
 
-Coming Soon
+***Coming Soon**
 
 ## FAQ  <a name="faq"></a>
 
-### 1. How do I install the project?
+### 1. Where is the mod?
 
-You can install the project by following these steps:
-
-### 2. How do I install the project?
-
-You can install the project by following these steps:
+The mod is still in **ACTIVE** development and will see its first release in an estimated couple weeks. For more information about the release and progress, join our Discord down below.
 
 ## Feedback  <a name="feedback"></a>
 
@@ -61,7 +57,7 @@ Feedback from the user community goes a long way in polishing the mod's experien
 
 ## Contact  <a name="contact"></a>
 
-This project was developed by Team AimX:
+This mod was developed by Team AimX:
 
 - **Vance Y.** - UI | 3D Modelling/Texturing | Scripting
 <p align="center"><a href="https://dsc.gg/aim-trainer-mod">
@@ -107,4 +103,4 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 
 ## Changelog  <a name="changelog"></a>
 
-Coming Soon
+***Coming Soon**
