@@ -30,18 +30,15 @@ A brief description of your awesome project.
 
 ## Features  <a name="features"></a>
 
-- [x] Initialize the project
-- [x] Create a feature branch
-- [x] Implement a new feature
-- [x] Test the feature
-- [x] Document the changes
-- [x] Create a pull request
-- [x] Review and merge the pull request
-- [x] Update the README
+- A modern, Aim Trainer-esque UI to get you into the 
+- Simplified game asset models for a significant performance/FPS boost
+- Clean textures for great visibility and target-focused gameplay
+- Pleasant sound effects to add to the overall ambience of the mod's theme
+- A bunch of custom scripts, adding much more functionality to your average gameplay experience
 
 ## Installation  <a name="installation"></a>
 
-Provide instructions on how to install and use your project.
+Coming Soon
 
 ## FAQ  <a name="faq"></a>
 
@@ -66,7 +63,8 @@ Feedback from the user community goes a long way in polishing the mod's experien
 
 This project was developed by Team AimX:
 
-- **Vance Y.** : <a href="https://dsc.gg/aim-trainer-mod">
+- **Vance Y.** - UI | 3D Modelling/Texturing | Scripting
+<p align="center"><a href="https://dsc.gg/aim-trainer-mod">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a> 
   <a href="https://dsc.gg/aim-trainer-mod">
@@ -74,13 +72,17 @@ This project was developed by Team AimX:
   </a> 
   <a href="https://dsc.gg/aim-trainer-mod">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
-- **Captain Cool** : <a href="https://dsc.gg/aim-trainer-mod">
+  </a>
+</p>
+
+- **Captain Cool** : UI | Scripting
+<p align="center"><a href="https://dsc.gg/aim-trainer-mod">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a> 
   <a href="https://dsc.gg/aim-trainer-mod">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
+  </a>
+</p>
 
 ## Acknowledgements  <a name="acknowledgments"></a>
 
@@ -105,4 +107,4 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 
 ## Changelog  <a name="changelog"></a>
 
-- Coming Soon
+Coming Soon
