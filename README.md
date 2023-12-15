@@ -18,7 +18,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [FAQ](#faq)
-- [Contributions](#contributions)
+- [Feedback](#feedback)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 - [Changelog](#changelog)
@@ -47,7 +47,7 @@ Provide instructions on how to install and use your project.
 
 Include frequently asked questions and their answers here.
 
-## Contributions  <a name="contributions"></a>
+## Feedback  <a name="feedback"></a>
 
 If you want to accept contributions, provide guidelines for how others can contribute to your project.
 
@@ -59,7 +59,17 @@ If you want to accept contributions, provide guidelines for how others can contr
 
 ## Acknowledgements  <a name="acknowledgments"></a>
 
-Mention and thank contributors, libraries, or tools that have been helpful in your project.
+- This mod project was inspired by M@'s Aimlabs Sierra training scenarios. Here is his [showcase](https://youtu.be/85B02nbBzec) of the same.
+- All the guns used in the mod are free (CC-BY) models taken from [Tastytony](https://sketchfab.com/TastyTony)'s Sketchfab collection.
+- The placement and look for all weapon models was inspired by Krunker's [CS1.6 De_Dust2](https://krunker.io/?play=CS1.6_dust2) map.
+- The following tools and languages were used to develop this mod: <p align="center">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
 
 ## Changelog  <a name="changelog"></a>
 
