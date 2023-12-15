@@ -12,7 +12,7 @@
   <img alt="GitHub Forks" src="https://img.shields.io/github/forks/guywiddasnipah/Aim-Trainer-Mod.svg?style=for-the-badge">
 </p>
 
-## Table of Contents
+# Table of Contents
 
 - [Description](#description)
 - [Features](#features)
@@ -31,13 +31,13 @@ A brief description of your awesome project.
 ## Features  <a name="features"></a>
 
 - [x] Initialize the project
-- [ ] Create a feature branch
-- [ ] Implement a new feature
-- [ ] Test the feature
-- [ ] Document the changes
-- [ ] Create a pull request
-- [ ] Review and merge the pull request
-- [ ] Update the README
+- [x] Create a feature branch
+- [x] Implement a new feature
+- [x] Test the feature
+- [x] Document the changes
+- [x] Create a pull request
+- [x] Review and merge the pull request
+- [x] Update the README
 
 ## Installation  <a name="installation"></a>
 
@@ -45,7 +45,13 @@ Provide instructions on how to install and use your project.
 
 ## FAQ  <a name="faq"></a>
 
-Include frequently asked questions and their answers here.
+### 1. How do I install the project?
+
+You can install the project by following these steps:
+
+### 2. How do I install the project?
+
+You can install the project by following these steps:
 
 ## Feedback  <a name="feedback"></a>
 
@@ -58,9 +64,7 @@ Feedback from the user community goes a long way in polishing the mod's experien
 
 ## Contact  <a name="contact"></a>
 
-- Your Name: [Your Name](mailto:your.email@example.com)
-- Project Homepage: [Link to Project](https://your-project-homepage.com)
-- Issue Tracker: [Link to Issues](https://github.com/your_username/your_project/issues)
+This project was developed by team AimX, a duo consisting of Vance Y. And Captain Cool:
 
 ## Acknowledgements  <a name="acknowledgments"></a>
 
