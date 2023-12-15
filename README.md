@@ -33,7 +33,7 @@ A brief description of your awesome project.
 - A modern, minimal and stats-packed Aim Trainer-esque UI to provide you all the info you'll need on-the-go
 - Simplified game asset models for a significant performance/FPS boost
 - Clean textures for great visibility and target-focused gameplay
-- Pleasant sound effects to add to the overall ambience of the mod's theme
+- Pleasant and satisfying sound effects to add to the overall ambience of the mod's theme
 - A bunch of custom scripts, adding much more functionality to your average gameplay experience
 
 ## Installation  <a name="installation"></a>
@@ -48,7 +48,7 @@ The mod is still in **ACTIVE** development and will see its first release in an 
 
 ## Feedback  <a name="feedback"></a>
 
-Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues and other forms of feedback, join our mod's official Discord with the button below.
+Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues and other forms of feedback, click on the button below to join the mod's dedicated official Discord.
 <p align="center">
   <a href="https://dsc.gg/aim-trainer-mod">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -60,22 +60,22 @@ Feedback from the user community goes a long way in polishing the mod's experien
 This mod was developed by Team AimX:
 
 - **Vance Y.** - UI | 3D Modelling/Texturing | Scripting
-<p align="center"><a href="https://github.com/guywiddasnipah" target="_blank">
+<p align="center"><a href="https://github.com/guywiddasnipah">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a> 
-  <a href="https://dsc.gg/aim-trainer-mod">
+  <a href="https://codepen.io/guywiddasnipah">
     <img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a> 
-  <a href="https://dsc.gg/aim-trainer-mod">
+  <a href="https://discord.com/users/694164511011110972">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
 - **Captain Cool** : UI | Scripting
-<p align="center"><a href="https://dsc.gg/aim-trainer-mod">
+<p align="center"><a href="https://github.com/capta1ncool">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a> 
-  <a href="https://dsc.gg/aim-trainer-mod">
+  <a href="https://discord.com/users/852063993466978318">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
