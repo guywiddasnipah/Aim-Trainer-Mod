@@ -49,7 +49,12 @@ Include frequently asked questions and their answers here.
 
 ## Feedback  <a name="feedback"></a>
 
-If you want to accept contributions, provide guidelines for how others can contribute to your project.
+Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues and other forms of feedback, join our mod's official Discord with the button below.
+<p align="center">
+  <a href="https://dsc.gg/aim-trainer-mod">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 ## Contact  <a name="contact"></a>
 
