@@ -64,7 +64,26 @@ Feedback from the user community goes a long way in polishing the mod's experien
 
 ## Contact  <a name="contact"></a>
 
-This project was developed by team AimX, a duo consisting of Vance Y. And Captain Cool:
+This project was developed by Team AimX:
+
+- **Vance Y.** : <a href="https://dsc.gg/aim-trainer-mod">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://dsc.gg/aim-trainer-mod">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://dsc.gg/aim-trainer-mod">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+- **Captain Cool** : <a href="https://dsc.gg/aim-trainer-mod">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://dsc.gg/aim-trainer-mod">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://dsc.gg/aim-trainer-mod">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 
 ## Acknowledgements  <a name="acknowledgments"></a>
 
