@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1171021700696125460/1184986486714667008/logo.png" width="175" alt="ATM-Logo.png">
+  <img src="https://cdn.discordapp.com/attachments/1188522602579374110/1188522608161984522/x1zeFrA.png" width="175" alt="ATM-Logo.png">
 </p>
 
 <h1 align="center">Aim Trainer Mod</h1>
