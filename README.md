@@ -71,7 +71,7 @@ This mod was developed by Team AimX:
   </a>
 </p>
 
-- **Captain Cool** : UI | Scripting
+- **Captain Cool** : UI | 2D Art | Scripting
 <p align="center"><a href="https://github.com/capta1ncool">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a> 
