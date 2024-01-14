@@ -42,9 +42,17 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 
 ## FAQ  <a name="faq"></a>
 
-### 1. Where is the mod?
+### 1. Is the mod safe to use?
 
-The mod is still in **ACTIVE** development and will see its first release in an estimated couple weeks. For more information about the release and progress, join our Discord down below.
+The mod is totally safe to use as a casual, general or competitive mod alike. It complies with the Venge TOS fully and doesn't provide unfair vantage to its users.
+
+### 2. Where is the mod's UI as showcased previously?
+
+The mod doesn't contain the CSS UI modifications yet due to an ongoing issue with the Venge Client, wherein CSS properties are not fully supported. When this issue is patched, the CSS file for the UI will be added.
+
+### 3. What's going to be the future for this mod? Is this the final version or are there going to be further additions?
+
+For the time being, this is the final base release of the mod with complete assets, textures, sounds and scripts. We have more utility scripts planned to further improve gameplay experience. Any and all updates about that will be announced in the mod's discord server.
 
 ## Feedback  <a name="feedback"></a>
 
@@ -85,7 +93,7 @@ This mod was developed by Team AimX:
 - This mod project was inspired by M@'s Aimlabs Sierra training scenarios. Here is his [showcase](https://youtu.be/85B02nbBzec) of the same.
 - All the guns used in the mod are free (CC-BY) models taken from [Tastytony](https://sketchfab.com/TastyTony)'s Sketchfab collection.
 - The placement and look for all weapon models was inspired by Krunker's [CS1.6 De_Dust2](https://krunker.io/?play=CS1.6_dust2) map.
-- All sounds are free (CC0) files taken from [ZapSplat](https://www.zapsplat.com/).
+- All sound effects are free (CC0) files taken from [ZapSplat](https://www.zapsplat.com/). All weapon sounds are base Counter Strike weapon sounds.
 - The following tools and languages were used to develop this mod: <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3">
