@@ -17,6 +17,7 @@
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
+- [Recommended Settings](#recommend)
 - [FAQ](#faq)
 - [Feedback](#feedback)
 - [Contact](#contact)
@@ -32,6 +33,7 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 ![atm_xibalba.png](https://iili.io/JY0vfWP.png)
 ![atm_tundra.png](https://iili.io/JY0e1Gn.png)
 ![atm_mistle.png](https://iili.io/JY0vJJj.png)
+![atm_fight.png](https://iili.io/JY04CqN.png)
 
 ## Features  <a name="features"></a>
 
@@ -44,6 +46,16 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 ## Installation  <a name="installation"></a>
 
 ***Coming Soon**
+
+## Recommended Settings  <a name="recommend"></a>
+
+For the best gameplay experience, please use the following recommended settings:
+
+- Set weapon and hands FOV to 75
+- Enable Hide Charms
+- Unequip any equipped skins
+- Enable Hide Hands client setting (requires latest Venge Client version. Press Ctrl + / to open client settings)
+- Enable Hide Weapon On Reload client setting (requires latest Venge Client version. Press Ctrl + / to open client settings)
 
 ## FAQ  <a name="faq"></a>
 
@@ -119,6 +131,7 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 ### v1.0.2 Beta
 
 - Added assets for Xibalba and Mistle Maps
+- Added capsule player models
 - Fixed birds and grunts sound files
 - Removed config.json. Material changes are now dynamic.
 - Added more utility scripts
