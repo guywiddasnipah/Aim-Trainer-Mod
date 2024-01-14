@@ -132,7 +132,7 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 
 ## Changelog  <a name="changelog"></a>
 
-### v1.0.2 Beta
+### v1.0.2 Beta (January 13, 2024)
 
 - Added assets for Xibalba and Mistle Maps
 - Added capsule player models
@@ -142,7 +142,7 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 - Fixed Temple scaffolding asset
 - Removed card textures from all maps
 
-### v1.0.1 Beta
+### v1.0.1 Beta (January 6, 2024)
 
 - Added assets for Sierra, Tundra and Temple Maps
 - Completed sound effects
