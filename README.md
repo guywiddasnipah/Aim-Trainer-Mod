@@ -40,6 +40,7 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 - A modern, minimal and stats-packed Aim Trainer-esque UI to provide you all the info you'll need on-the-go
 - Simplified game asset models for a significant performance/FPS boost
 - Clean textures for great visibility and target-focused gameplay
+- Hitbox-accurate player models to greatly enhance your hit accuracy and aim
 - Pleasant and satisfying sound effects to add to the overall ambience of the mod's theme
 - A bunch of custom scripts, adding much more functionality to your average gameplay experience
 
