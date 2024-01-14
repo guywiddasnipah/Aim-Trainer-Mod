@@ -113,7 +113,7 @@ This mod was developed by Team AimX:
 
 - This mod project was inspired by M@'s Aimlabs Sierra training scenarios. Here is his [showcase](https://youtu.be/85B02nbBzec) of the same.
 - All the guns used in the mod are free (CC-BY) models taken from [Tastytony](https://sketchfab.com/TastyTony)'s Sketchfab collection.
-- The placement and look for all weapon models was inspired by Krunker's [CS1.6 De_Dust2](https://krunker.io/?play=CS1.6_dust2) map.
+- The placement and look for all weapon models was inspired by Counter Strike 1.6.
 - All sound effects are free (CC0) files taken from [ZapSplat](https://www.zapsplat.com/). All weapon sounds are base Counter Strike weapon sounds.
 - The following tools and languages were used to develop this mod: <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5">
