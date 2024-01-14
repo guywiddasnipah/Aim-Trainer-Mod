@@ -28,6 +28,11 @@
 
 The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to the tons of other color-palette mods out there, this mod concept provides the player a whole new gameplay experience. A powerful interface, custom assets, clean textures, sounds and scripting usage, all while preserving performance is what makes this mod stand out among its counterparts. The mod is suitable for competitive and casual playstyles alike and provides players a significant advantage over the others.
 
+![atm_sierra.png](https://iili.io/JY0kiJf.png)
+![atm_xibalba.png](https://iili.io/JY0vfWP.png)
+![atm_tundra.png](https://iili.io/JY0e1Gn.png)
+![atm_mistle.png](https://iili.io/JY0vJJj.png)
+
 ## Features  <a name="features"></a>
 
 - A modern, minimal and stats-packed Aim Trainer-esque UI to provide you all the info you'll need on-the-go
@@ -111,4 +116,19 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 
 ## Changelog  <a name="changelog"></a>
 
-***Coming Soon**
+### v1.0.2 Beta
+
+- Added assets for Xibalba and Mistle Maps
+- Fixed birds and grunts sound files
+- Removed config.json. Material changes are now dynamic.
+- Added more utility scripts
+- Fixed Temple scaffolding asset
+- Removed card textures from all maps
+
+### v1.0.1 Beta
+
+- Added assets for Sierra, Tundra and Temple Maps
+- Completed sound effects
+- Completed rank and kill icons
+- Completed Better Map JSONs
+- Updated config.json for material changes
