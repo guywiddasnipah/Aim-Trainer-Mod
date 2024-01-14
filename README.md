@@ -71,6 +71,10 @@ The mod doesn't contain the CSS UI modifications yet due to an ongoing issue wit
 
 For the time being, this is the final base release of the mod with complete assets, textures, sounds and scripts. We have more utility scripts planned to further improve gameplay experience. Any and all updates about that will be announced in the mod's discord server.
 
+### 2. Can I use this mod's assets in my own mod? And can I release variants of the mod thus created?
+
+The mod as a whole and all its contained files, including 3d assets, images, sounds and scripts are licensed under CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of resources, you're free to use the aforementioned assets in your own variants or projects. Read the license for further information regarding the same.
+
 ## Feedback  <a name="feedback"></a>
 
 Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues and other forms of feedback, click on the button below to join the mod's dedicated official Discord.
