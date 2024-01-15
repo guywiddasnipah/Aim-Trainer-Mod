@@ -34,6 +34,11 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 ![atm_tundra.png](https://iili.io/JY0e1Gn.png)
 ![atm_mistle.png](https://iili.io/JY0vJJj.png)
 ![atm_fight.png](https://iili.io/JY04CqN.png)
+![atm_mainmenuui.png](https://iili.io/JYGNpaa.png)
+![atm_shopui.png](https://iili.io/JYGO9yv.png)
+![atm_settingsui.png](https://iili.io/JYGOFnI.png)
+![atm_profileui.png](https://iili.io/JYGOIwl.png)
+![atm_popupui.png](https://iili.io/JYGOBFn.png)
 
 ## Features  <a name="features"></a>
 
