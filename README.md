@@ -49,7 +49,11 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 
 ## Installation  <a name="installation"></a>
 
-***Coming Soon**
+- Download the latest release of the mod [here](https://github.com/guywiddasnipah/Aim-Trainer-Mod/releases)
+- Unzip the downloaded folder and copy the subfolder titled "Venge Client"
+- Navigate to your PC's Documents folder and ensure that there isn't already a folder named Venge Client in it.
+- Paste the copied Venge Client folder here
+- Launch Venge Client. The mod has been applied successfully
 
 ## Recommended Settings  <a name="recommend"></a>
 
