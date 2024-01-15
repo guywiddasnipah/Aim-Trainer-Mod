@@ -140,6 +140,10 @@ This project is licensed under the Creative Commons Attribution License (CC-BY) 
 
 ## Changelog  <a name="changelog"></a>
 
+### v1.0.3 (January 15, 2024)
+
+- Official Github public release
+
 ### v1.0.2 Beta (January 13, 2024)
 
 - Added assets for Xibalba and Mistle Maps
