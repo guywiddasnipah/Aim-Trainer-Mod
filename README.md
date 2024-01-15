@@ -35,11 +35,8 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 ![atm_mistle.png](https://iili.io/JY0vJJj.png)
 ![atm_fight.png](https://iili.io/JY04CqN.png)
 ![atm_mainmenuui.png](https://iili.io/JYGNpaa.png)
-![atm_shopui.png](https://iili.io/JYGO9yv.png)
 ![atm_settingsui.png](https://iili.io/JYGOFnI.png)
-![atm_profileui.png](https://iili.io/JYGOIwl.png)
 ![atm_popupui.png](https://iili.io/JYGOBFn.png)
-[![Showcase video.mp4](https://img.youtube.com/vi/ndG35KIY_Fo/0.jpg)](https://www.youtube.com/watch?v=ndG35KIY_Fo)
 
 ## Features  <a name="features"></a>
 
@@ -70,7 +67,7 @@ For the best gameplay experience, please use the following recommended settings:
 
 The mod is totally safe to use as a casual, general or competitive mod alike. It complies with the Venge TOS fully and doesn't provide unfair vantage to its users.
 
-### 2. Where is the mod's UI as showcased previously?
+### 2. Where is the mod's UI as [showcased](https://youtu.be/ndG35KIY_Fo) previously?
 
 The mod doesn't contain the CSS UI modifications yet due to an ongoing issue with the Venge Client, wherein CSS properties are not fully supported. When this issue is patched, the CSS file for the UI will be added.
 
