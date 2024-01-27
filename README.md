@@ -34,6 +34,8 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 ![atm_tundra.png](https://iili.io/JY0e1Gn.png)
 ![atm_mistle.png](https://iili.io/JY0vJJj.png)
 ![atm_fight.png](https://iili.io/JY04CqN.png)
+![atm_sierra_light.png](https://iili.io/JcRb5k7.png)
+![atm_tundra_light.png](https://iili.io/JcRbaIe.png)
 ![atm_mainmenuui.png](https://iili.io/JYGNpaa.png)
 ![atm_settingsui.png](https://iili.io/JYGOFnI.png)
 ![atm_popupui.png](https://iili.io/JYGOBFn.png)
@@ -123,6 +125,7 @@ This mod was developed by Team AimX:
 - All the guns used in the mod are free (CC-BY) models taken from [Tastytony](https://sketchfab.com/TastyTony)'s Sketchfab collection.
 - The placement and look for all weapon models was inspired by Counter Strike 1.6.
 - All sound effects are free (CC0) files taken from [ZapSplat](https://www.zapsplat.com/). All weapon sounds are base Counter Strike weapon sounds.
+- All map asset textures are modifications of free (CC0) textures sourced from [Kenney.nl](https://www.kenney.nl/).
 - The following tools and languages were used to develop this mod: <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3">
