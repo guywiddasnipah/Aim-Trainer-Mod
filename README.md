@@ -57,7 +57,7 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 - Paste the copied Venge Client folder here
 - Launch Venge Client. The mod has been applied successfully
 
-### Installation of Light Theme Swap
+### Applying Light Theme Swap
 
 - Follow the above steps to install the base (dark) version of the mod first
 - Download the Light Theme Swap zip file [here](https://github.com/guywiddasnipah/Aim-Trainer-Mod/raw/main/Aim_Trainer_Mod_LightTheme_Swap.zip)
