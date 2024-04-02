@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iili.io/JwbpioG.png" width="175" alt="ATM-Logo.png">
+  <img src="https://iili.io/JwmXqOb.png" width="175" alt="ATM-Logo.png">
 </p>
 
 <h1 align="center">Aim Trainer Mod</h1>
