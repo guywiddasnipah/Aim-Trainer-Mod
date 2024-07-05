@@ -93,6 +93,10 @@ For the time being, this is the final base release of the mod with complete asse
 
 The mod as a whole and all its contained files, including 3d assets, images, sounds and scripts are licensed under CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of resources, you're free to use the aforementioned assets in your own variants or projects. Read the license for further information regarding the same.
 
+### 5. The mod seems to have broken character and weapon models. When will these be fixed?
+
+The broken weapon and character models are the result of a recent Venge animations update, whereby character rigs and weapon entities were changed to facilitate the new animation system. This system in itself turned out to be pretty unstable and might be patched by the developers in the future. We too, are currently waiting for that patch to arrive since with this animation system, its nearly impossible for us to ship any working custom character or weapon models with the mod pack.
+
 ## Feedback  <a name="feedback"></a>
 
 Feedback from the user community goes a long way in polishing the mod's experience and as such, is highly appreciated. To submit any suggestions, issues and other forms of feedback, click on the button below to join the mod's dedicated official Discord.
