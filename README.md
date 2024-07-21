@@ -12,6 +12,12 @@
   <img alt="GitHub Forks" src="https://img.shields.io/github/forks/guywiddasnipah/Aim-Trainer-Mod.svg?style=for-the-badge">
 </p>
 
+<p align="center">
+  <h1 align="center">⚠ PROJECT IS DISCONTINUED ⚠</h1>
+  <h3 align="center">👇🏻 See FAQ for Important Details 👇🏻</h3>
+</p>
+
+
 # Table of Contents
 
 - [Description](#description)
@@ -154,6 +160,10 @@ This mod was developed by Team AimX:
 This project is licensed under the Creative Commons Attribution License (CC-BY) - see the [LICENSE](LICENSE) file for details.
 
 ## Changelog  <a name="changelog"></a>
+
+### v1.0.x (July 16, 2024)
+
+- Project Discontinued
 
 ### v1.0.3 (January 15, 2024)
 
