@@ -81,15 +81,17 @@ The mod was archived until further notice following this [announcement](https://
 
 ### 2. What made the mod be considered of unfair usage?
 
-As stated in the official announcement, using any mods that use modified map assets will be considered cheating starting July 22, 2024. We do not want our mod users to be banned because of the mod. Hence it was taken down. <ins>**If you are still using the mod, its humbly advised that you do not do so furthermore and uninstall it immediately to prevent yourself from getting hacker-flagged.**</ins>
+As stated in the official announcement, using any mods that use modified map assets will be considered cheating starting July 22, 2024. We do not want our mod users to be banned because of the mod. Hence it was taken down. <ins>**If you are still using the mod, its humbly advised that you do not do so furthermore and uninstall it immediately to prevent yourself from getting hacker-flagged**</ins>.
 
-### 3. What's going to be the future for this mod? Is this the final version or are there going to be further additions?
+### 3. How do I uninstall the mod?
 
-For the time being, this is the final base release of the mod with complete assets, textures, sounds and scripts. We have more utility scripts planned to further improve gameplay experience. Any and all updates about that will be announced in the mod's discord server.
+Delete the entire Venge Client folder from your PC's Documents folder. This will get rid of the mod wholly.
 
-### 4. Can I use this mod's assets in my own mod? And can I release variants of the mod thus created?
+### 4. Is it not possible to adapt the mod to the new guidelines and re-release it?
 
-The mod as a whole and all its contained files, including 3d assets, images, sounds and scripts are licensed under CC-BY Attribution License. As long as you provide appropriate credits and reference this mod as your source of resources, you're free to use the aforementioned assets in your own variants or projects. Read the license for further information regarding the same.
+As much as we would have loved to do so, its nearly impossible for us to provide our users the experience we aimed for while also keeping it in line with the new rules.
+
+Our mod heavily relied on custom 
 
 ### 5. The mod seems to have broken character and weapon models. When will these be fixed?
 
