@@ -97,9 +97,11 @@ But since these practices are no longer allowed, we had to take both of these as
 
 This totally defeats our purpose of making the mod in the first place. We set out to make a mod that was aesthetically pleasing while also maintaining good performance. Based on community feedback, I think we achieved just that. But alas, its no longer possible for us to deliver that same experience back.
 
-### 5. The mod seems to have broken character and weapon models. When will these be fixed?
+### 5. Will this mod ever be revived?
 
-The broken weapon and character models are the result of a recent Venge animations update, whereby character rigs and weapon entities were changed to facilitate the new animation system. This system in itself turned out to be pretty unstable and might be patched by the developers in the future. We too, are currently waiting for that patch to arrive since with this animation system, its nearly impossible for us to ship any working custom character or weapon models with the mod pack.
+As of now, we don't know. We are hopeful that the Venge.io developers would rethink on their guidelines and amend them to to make modding fairer and more creative for everyone, including us. If such happens, and we are in a state of reviving the mod project while also making it fit the rules, then yes, we will revive this project.
+
+Until then, the Github repository for this project will stay up, serving as a nice reminder of what the project was about, and as an info bulletin about the mod's discontinuation. We thank you all for your endless support and love to our mod project. This project was able to become a break-through in the Venge modding scene, only because of the beautiful and encouraging community behind it. Thank you all so much for sticking around! 💝
 
 ## Feedback  <a name="feedback"></a>
 
