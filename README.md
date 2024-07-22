@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <h1 align="center">⚠ PROJECT IS DISCONTINUED ⚠</h1>
-  <h3 align="center">👇🏻 See FAQ for Important Details 👇🏻</h3>
+  <h1 align="center"><ins>PROJECT IS DISCONTINUED</ins></h1>
+  <h4 align="center">👇🏻 See <a href="#faq">FAQ</a> for Important Details 👇🏻</h4>
 </p>
 
 
