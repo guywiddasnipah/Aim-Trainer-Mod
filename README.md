@@ -75,13 +75,13 @@ For the best gameplay experience, please use the following recommended settings:
 
 ## FAQ  <a name="faq"></a>
 
-### 1. Is the mod safe to use?
+### 1. What happened to this mod project?
 
-The mod is totally safe to use as a casual, general or competitive mod alike. It complies with the Venge TOS fully and doesn't provide unfair vantage to its users.
+The mod was archived until further notice following this [announcement](https://discord.com/channels/719544465856921692/719551901602938890/1261299076297658428) in the Venge official Discord server. The mod no longer meets the official mod-making guidelines and is considered of unfair usage due to major changes in the guidelines.
 
-### 2. Where is the mod's UI as [showcased](https://youtu.be/ndG35KIY_Fo) previously?
+### 2. What made the mod be considered of unfair usage?
 
-The mod doesn't contain the CSS UI modifications yet due to an ongoing issue with the Venge Client, wherein CSS properties are not fully supported. When this issue is patched, the CSS file for the UI will be added.
+As stated in the official announcement, using any mods that use modified map assets will be considered cheating starting July 22, 2024. We do not want our mod users to be banned because of the mod. Hence it was taken down. <ins>**If you are still using the mod, its humbly advised that you do not do so furthermore and uninstall it immediately to prevent yourself from getting hacker-flagged.**</ins>
 
 ### 3. What's going to be the future for this mod? Is this the final version or are there going to be further additions?
 
