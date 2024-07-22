@@ -65,13 +65,7 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 
 ## Recommended Settings  <a name="recommend"></a>
 
-For the best gameplay experience, please use the following recommended settings:
-
-- Set weapon and hands FOV to 75
-- Enable Hide Charms
-- Unequip any equipped skins
-- Enable Hide Hands client setting (requires latest Venge Client version. Press Ctrl + / to open client settings)
-- Enable Hide Weapon On Reload client setting (requires latest Venge Client version. Press Ctrl + / to open client settings)
+- Not Available
 
 ## FAQ  <a name="faq"></a>
 
