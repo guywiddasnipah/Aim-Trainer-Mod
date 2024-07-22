@@ -91,7 +91,11 @@ Delete the entire Venge Client folder from your PC's Documents folder. This will
 
 As much as we would have loved to do so, its nearly impossible for us to provide our users the experience we aimed for while also keeping it in line with the new rules.
 
-Our mod heavily relied on custom 
+Our mod heavily relied on custom modelled map assets to provide enhanced gameplay performance and give a cleaner look to the maps. Some decorative assets were also removed from maps using jsons without significantly affecting their collisions, to further reduce render strain on the viewport.
+
+But since these practices are no longer allowed, we had to take both of these asset types down. Without access to custom asset models, its also impossible for us to have custom textures for them. The weapon and character models were previously broken by another Venge update, which never got around to fixing because of the instability of the new animations system the update brought in. The CSS file, as mentioned before, didn't function fully because of issues with the client's CSS injector. What remained of the mod after all these deletions were just the sound files and the icon files.
+
+This totally defeats our purpose of making the mod in the first place. We set out to make a mod that was aesthetically pleasing while also maintaining good performance. Based on community feedback, I think we achieved just that. But alas, its no longer possible for us to deliver that same experience back.
 
 ### 5. The mod seems to have broken character and weapon models. When will these be fixed?
 
