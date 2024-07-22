@@ -57,19 +57,11 @@ The Aim Trainer Mod is a one-of-a-kind mod for the game Venge.io. As opposed to 
 
 ## Installation  <a name="installation"></a>
 
-- Download the latest release of the mod [here](https://github.com/guywiddasnipah/Aim-Trainer-Mod/releases)
-- Unzip the downloaded folder and copy the subfolder titled "Venge Client"
-- Navigate to your PC's Documents folder and ensure that there isn't already a folder named Venge Client in it. If there is one, delete it prior to attempting the next step (especially important for mod beta-testers)
-- Paste the copied Venge Client folder here
-- Launch Venge Client. The mod has been applied successfully
+- Not Available
 
 ### Applying Light Theme Swap
 
-- Follow the above steps to install the base (dark) version of the mod first. **Without this step the swap won't work as expected**
-- Download the Light Theme Swap zip file [here](https://github.com/guywiddasnipah/Aim-Trainer-Mod/raw/main/Aim_Trainer_Mod_LightTheme_Swap.zip)
-- Unzip the downloaded folder and copy the subfolder titled "Venge Client"
-- Navigate to your PC's Documents folder and paste the copied folder here. Approve "Replace files" when prompted
-- Launch Venge Client. The swap has been applied successfully to the base mod
+- Not Available
 
 ## Recommended Settings  <a name="recommend"></a>
 
@@ -116,7 +108,7 @@ Feedback from the user community goes a long way in polishing the mod's experien
 
 This mod was developed by Team AimX:
 
-- **Vance Y.** - UI | 3D Modelling/Texturing | Scripting
+- **Vance Y.** - UI | 3D Art | Scripting
 <p align="center"><a href="https://github.com/guywiddasnipah">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a> 
